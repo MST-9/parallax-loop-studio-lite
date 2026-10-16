@@ -1,0 +1,20 @@
+{
+  "name": "parallax-loop-studio-lite",
+  "displayName": "Parallax Loop Studio (Lite)",
+  "description": "Seamless parallax scrolling loops from stacked background layers: per-layer speed and direction, loop-length solver, snap, fit-to-length and seam check. Pixel-exact, one undo.",
+  "version": "1.0.0",
+  "author": {
+    "name": "MST-9 Tools"
+  },
+  "license": "MIT",
+  "categories": [
+    "Scripts"
+  ],
+  "contributes": {
+    "scripts": [
+      {
+        "path": "./plugin.lua"
+      }
+    ]
+  }
+}
